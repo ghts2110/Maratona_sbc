@@ -4,8 +4,8 @@ using namespace std;
 
 int main(){
     int v, n, i, value;
-
     cin >> v >> n;
+    
     for(i = 1; i != 10; i++){
         value = v*n*i;
 
